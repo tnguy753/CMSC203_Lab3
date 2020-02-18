@@ -30,7 +30,7 @@ public class MovieDrive {
 		System.out.println("Do you want to enter another? (y or n)");
 		
 		  a = input.next().charAt(0);
-		  	input.close();
+		  	
 		} while(a =='y');
 		
 		System.out.println("Goodbye");
